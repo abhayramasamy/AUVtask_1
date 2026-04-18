@@ -1,0 +1,23 @@
+[0.637s] Invoking command in '/home/abhay-ramasamy/AUVT1/Task2_ws/src/signal_pipeline': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abhay-ramasamy/AUVT1/Task2_ws/build/signal_pipeline/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhay-ramasamy/AUVT1/Task2_ws/install/signal_pipeline/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/signal_pipeline build --build-base /home/abhay-ramasamy/AUVT1/Task2_ws/build/signal_pipeline/build install --record /home/abhay-ramasamy/AUVT1/Task2_ws/build/signal_pipeline/install.log --single-version-externally-managed install_data
+[0.835s] running egg_info
+[0.849s] writing ../../build/signal_pipeline/signal_pipeline.egg-info/PKG-INFO
+[0.849s] writing dependency_links to ../../build/signal_pipeline/signal_pipeline.egg-info/dependency_links.txt
+[0.850s] writing entry points to ../../build/signal_pipeline/signal_pipeline.egg-info/entry_points.txt
+[0.850s] writing requirements to ../../build/signal_pipeline/signal_pipeline.egg-info/requires.txt
+[0.850s] writing top-level names to ../../build/signal_pipeline/signal_pipeline.egg-info/top_level.txt
+[0.875s] reading manifest file '../../build/signal_pipeline/signal_pipeline.egg-info/SOURCES.txt'
+[0.876s] writing manifest file '../../build/signal_pipeline/signal_pipeline.egg-info/SOURCES.txt'
+[0.876s] running build
+[0.876s] running build_py
+[0.876s] running install
+[0.880s] running install_lib
+[0.893s] running install_data
+[0.893s] running install_egg_info
+[0.906s] removing '/home/abhay-ramasamy/AUVT1/Task2_ws/install/signal_pipeline/lib/python3.12/site-packages/signal_pipeline-0.0.0-py3.12.egg-info' (and everything under it)
+[0.906s] Copying ../../build/signal_pipeline/signal_pipeline.egg-info to /home/abhay-ramasamy/AUVT1/Task2_ws/install/signal_pipeline/lib/python3.12/site-packages/signal_pipeline-0.0.0-py3.12.egg-info
+[0.907s] running install_scripts
+[1.020s] Installing output_node script to /home/abhay-ramasamy/AUVT1/Task2_ws/install/signal_pipeline/lib/signal_pipeline
+[1.020s] Installing processor_node script to /home/abhay-ramasamy/AUVT1/Task2_ws/install/signal_pipeline/lib/signal_pipeline
+[1.021s] Installing publisher_node script to /home/abhay-ramasamy/AUVT1/Task2_ws/install/signal_pipeline/lib/signal_pipeline
+[1.021s] writing list of installed files to '/home/abhay-ramasamy/AUVT1/Task2_ws/build/signal_pipeline/install.log'
+[1.052s] Invoked command in '/home/abhay-ramasamy/AUVT1/Task2_ws/src/signal_pipeline' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abhay-ramasamy/AUVT1/Task2_ws/build/signal_pipeline/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhay-ramasamy/AUVT1/Task2_ws/install/signal_pipeline/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/signal_pipeline build --build-base /home/abhay-ramasamy/AUVT1/Task2_ws/build/signal_pipeline/build install --record /home/abhay-ramasamy/AUVT1/Task2_ws/build/signal_pipeline/install.log --single-version-externally-managed install_data
