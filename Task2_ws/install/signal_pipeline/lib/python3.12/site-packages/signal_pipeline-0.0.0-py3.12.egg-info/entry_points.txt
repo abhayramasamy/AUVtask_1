@@ -1,4 +1,0 @@
-[console_scripts]
-output_node = signal_pipeline.output_node:main
-processor_node = signal_pipeline.processor_node:main
-publisher_node = signal_pipeline.publisher_node:main
