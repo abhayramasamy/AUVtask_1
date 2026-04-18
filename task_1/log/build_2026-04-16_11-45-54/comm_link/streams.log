@@ -1,0 +1,41 @@
+[1.267s] Invoking command in '/home/abhay-ramasamy/AUV_tasks/Task1_ws/src/comm_link': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comm_link build --build-base /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build install --record /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/install.log --single-version-externally-managed install_data
+[1.466s] running egg_info
+[1.467s] creating ../../build/comm_link/comm_link.egg-info
+[1.479s] writing ../../build/comm_link/comm_link.egg-info/PKG-INFO
+[1.479s] writing dependency_links to ../../build/comm_link/comm_link.egg-info/dependency_links.txt
+[1.480s] writing entry points to ../../build/comm_link/comm_link.egg-info/entry_points.txt
+[1.480s] writing requirements to ../../build/comm_link/comm_link.egg-info/requires.txt
+[1.480s] writing top-level names to ../../build/comm_link/comm_link.egg-info/top_level.txt
+[1.480s] writing manifest file '../../build/comm_link/comm_link.egg-info/SOURCES.txt'
+[1.505s] reading manifest file '../../build/comm_link/comm_link.egg-info/SOURCES.txt'
+[1.506s] writing manifest file '../../build/comm_link/comm_link.egg-info/SOURCES.txt'
+[1.506s] running build
+[1.506s] running build_py
+[1.506s] creating /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build
+[1.506s] creating /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build/lib
+[1.506s] creating /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build/lib/comm_link
+[1.506s] copying comm_link/__init__.py -> /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build/lib/comm_link
+[1.506s] copying comm_link/invictus_node.py -> /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build/lib/comm_link
+[1.506s] copying comm_link/hawcker_node.py -> /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build/lib/comm_link
+[1.506s] running install
+[1.512s] running install_lib
+[1.528s] creating /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages/comm_link
+[1.528s] copying /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build/lib/comm_link/__init__.py -> /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages/comm_link
+[1.529s] copying /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build/lib/comm_link/invictus_node.py -> /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages/comm_link
+[1.529s] copying /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build/lib/comm_link/hawcker_node.py -> /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages/comm_link
+[1.529s] byte-compiling /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages/comm_link/__init__.py to __init__.cpython-312.pyc
+[1.529s] byte-compiling /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages/comm_link/invictus_node.py to invictus_node.cpython-312.pyc
+[1.530s] byte-compiling /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages/comm_link/hawcker_node.py to hawcker_node.cpython-312.pyc
+[1.531s] running install_data
+[1.531s] creating /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/share/ament_index
+[1.531s] creating /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/share/ament_index/resource_index
+[1.531s] creating /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/share/ament_index/resource_index/packages
+[1.531s] copying resource/comm_link -> /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/share/ament_index/resource_index/packages
+[1.531s] copying package.xml -> /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/share/comm_link
+[1.531s] running install_egg_info
+[1.546s] Copying ../../build/comm_link/comm_link.egg-info to /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages/comm_link-0.0.0-py3.12.egg-info
+[1.547s] running install_scripts
+[1.648s] Installing hawcker_node script to /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/comm_link
+[1.649s] Installing invictus_node script to /home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/comm_link
+[1.649s] writing list of installed files to '/home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/install.log'
+[1.672s] Invoked command in '/home/abhay-ramasamy/AUV_tasks/Task1_ws/src/comm_link' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhay-ramasamy/AUV_tasks/Task1_ws/install/comm_link/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comm_link build --build-base /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/build install --record /home/abhay-ramasamy/AUV_tasks/Task1_ws/build/comm_link/install.log --single-version-externally-managed install_data
