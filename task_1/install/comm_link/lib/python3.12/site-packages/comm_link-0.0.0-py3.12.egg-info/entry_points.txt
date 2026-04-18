@@ -1,0 +1,3 @@
+[console_scripts]
+hawcker_node = comm_link.hawcker_node:main
+invictus_node = comm_link.invictus_node:main
