@@ -1,4 +1,4 @@
-# AUVtask_1
+# AUV TASK 1
 
 To the recruitment team,
 Thank you for the opportunity to participate in the AUV Club software wing selection. I have successfully completed all 4 tasks assigned in AUV Task #1.
