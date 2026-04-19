@@ -43,6 +43,6 @@ The python-statemachine library is not available via apt and not native to ROS2.
 1) Installed in a .venv ROS2 uses system Python, not the venv, so import failed at runtime
 2) Debugging ModuleNotFoundErrors due to venv not having custom library files lieek em r numpy.
 3) Added to setup.py install_requires colcon picked it up but ROS2 runtime still couldn't find it
-4) sudo pip3 install statemachine --break-system-packages , this finally worked
+4) sudo pip3 install statemachine --break-system-packages , this finally worked...
 
 
